@@ -13,7 +13,7 @@ Example 2:
 
 Input: nums = [3,2,4], target = 6
 Output: [1,2]*/
-
+/* Two Pointer approach*/
 import java.util.*;
 class TestClass {
     public int[] twoSum(int[] nums, int target) {
